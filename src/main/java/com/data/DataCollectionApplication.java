@@ -14,11 +14,8 @@ public class DataCollectionApplication {
 		SpringApplication.run(DataCollectionApplication.class, args);
 	}
 
-	
-	public int speak() {
-		
-		//Bug 112
-		System.out.println("hello this is srinivas");
+	//Big239
+	public int run() {
 		return 1;
 	}
 }
