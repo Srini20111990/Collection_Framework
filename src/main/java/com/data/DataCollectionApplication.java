@@ -15,7 +15,10 @@ public class DataCollectionApplication {
 	}
 
 	
-	public void speak() {
+	public int speak() {
 		
+		//Bug 112
+		System.out.println("hello this is srinivas");
+		return 1;
 	}
 }
