@@ -14,4 +14,8 @@ public class DataCollectionApplication {
 		SpringApplication.run(DataCollectionApplication.class, args);
 	}
 
+	
+	public void speak() {
+		
+	}
 }
